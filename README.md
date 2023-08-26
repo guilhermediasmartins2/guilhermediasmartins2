@@ -5,7 +5,7 @@ Sou engenheiro civil e estou em transição de carreira para a área de Business
 No momento estou estudando a fundo a linguagem de programação Python e gostando cada vez mais de **Automação de Tarefas** e **Automação Web**. 
 
 - 📊 **Analista de Business Intelligence** 
-- 🏃‍♂️ Corrida coomo hobby
+- 🏃‍♂️ Corrida como hobby
 
   ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/guilherme-dias-martins">

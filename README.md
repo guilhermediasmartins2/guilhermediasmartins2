@@ -7,6 +7,14 @@ No momento estou estudando a fundo a linguagem de programação Python e gostand
 - 📊 **Analista de Business Intelligence** 
 - 🏃‍♂️ Corrida coomo hobby
 
+  ### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/guilherme-dias-martins">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://sites.google.com/view/portflio-guilherme-martins">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>&nbsp;
+
 <!--
 **guilhermediasmartins2/guilhermediasmartins2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

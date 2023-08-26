@@ -1,10 +1,10 @@
 ### Oi, me chamo Guilherme Martins!!!
 
-Sou engenheiro civil e estou em transição de carreira para a área de Business Intelligence. Cada vez mais interessado em análise de dados e desenvolver Dashboards em Power BI e consulta em banco de dados através do SQL. \n
-No momento estou estudando a fundo a linguagem de programação Python e gostando cada vez mais de **Automação de Tarefas** e **Automação Web**. \n
+Sou engenheiro civil e estou em transição de carreira para a área de Business Intelligence. Cada vez mais interessado em análise de dados e desenvolver Dashboards em Power BI e consulta em banco de dados através do SQL. 
+No momento estou estudando a fundo a linguagem de programação Python e gostando cada vez mais de **Automação de Tarefas** e **Automação Web**. 
 
-📊 **Analista de Business Intelligence** \n
-🏃‍♂️ Corrida coomo hobby
+- 📊 **Analista de Business Intelligence** 
+- 🏃‍♂️ Corrida coomo hobby
 
 <!--
 **guilhermediasmartins2/guilhermediasmartins2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

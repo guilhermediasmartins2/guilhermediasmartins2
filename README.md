@@ -1,10 +1,15 @@
 ### Oi, me chamo Guilherme Martins!!!
 
-Sou engenheiro civil e estou em transição de carreira para a área de Business Intelligence. Cada vez mais interessado em análise de dados e desenvolver Dashboards em Power BI e consulta em banco de dados através do SQL. 
+Tenho 5+ anos de experiência na Oi S.A com projetos de análise de dados, apoiando a equipe de negócio na tomada de decisões através de desenvolvimento, gerenciamento e análise de indicadores de performance para report. Atuei durante 1 ano na Bridge & Co com consultoria de TI levantando regras de negócios, identificando gargalos e mapeando processos.
 
-No momento estou estudando a fundo a linguagem de programação Python e gostando cada vez mais de **Automação de Tarefas** e **Automação Web**. 
+💡 Destaques:
 
-- 📊 **Analista de Business Intelligence** 
+- Experiência sólida em soluções de analytics com Power BI para criação de dashboards e relatórios de performance.
+- Especialista em análise de dados e estatística, traduzindo-os em informações estratégicas para uma tomada de decisão mais adequadas.
+- Proficiente em SQL e Python para coleta, extração e manipulação de bases de dados.
+- Experiência em processos de ETL com Python, SQL e Pentaho.
+
+- 📊 **Analista de Dados** 
 - 🏃‍♂️ Corrida como hobby
 
   ### Você também me encontra em:
